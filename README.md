@@ -1,4 +1,4 @@
-# 🏦 Secure_Bank Management System
+# 🏦 Secure_Bank_Management_System
 
 A **comprehensive bank management system** built with **Spring Boot**, **MySQL**, and **React**. This project includes robust features for **user authentication**, **transaction processing**, **loan management**, and **fraud detection**, all built with a strong emphasis on **security and modern UI**.
 
