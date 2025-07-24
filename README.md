@@ -35,33 +35,6 @@ A **comprehensive bank management system** built with **Spring Boot**, **MySQL**
 
 ---
 
-## 📁 Project Structure
-
-bank-management-system/
-├── backend/
-│ ├── src/
-│ │ ├── main/
-│ │ │ ├── java/
-│ │ │ │ └── com/
-│ │ │ │ └── bank/
-│ │ │ │ ├── config/
-│ │ │ │ ├── controller/
-│ │ │ │ ├── model/
-│ │ │ │ ├── repository/
-│ │ │ │ ├── security/
-│ │ │ │ └── service/
-│ │ │ └── resources/
-│ │ └── test/
-│ └── pom.xml
-└── frontend/
-├── public/
-├── src/
-│ ├── components/
-│ ├── context/
-│ ├── services/
-│ └── App.js
-└── package.json
-
 ## ⚙️ Setup Instructions
 
 ### 🔧 Backend Setup
@@ -75,7 +48,7 @@ cd backend
 mvn clean install
 mvn spring-boot:run
 
-🌐 Frontend Setup
+### 🌐 Frontend Setup
 📥 Install Node.js and npm
 
 Run:
